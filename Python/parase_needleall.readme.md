@@ -20,3 +20,4 @@ Output:
 
 `out.needleall.21_clusters.tsv`
 
+![image](https://github.com/ZhangDengwei/Scripts/blob/main/images/out.needleall.21_clusters.tsv.png)
