@@ -4,5 +4,9 @@
 needleall -asequence classII.bacteriocins.deduplicate.fa -bsequence precusor_21_clusters.fa -outfile out.needleall.21_clusters_known_2_unknwon -auto -aformat srspair
 ```
 
-Iutput:
+Intput:
 `out.needleall.21_clusters`
+
+
+
+
